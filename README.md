@@ -12,3 +12,7 @@ comments.
 My project was compiled with raylib cmake files. Because this is user-specific, I left out my raylib path folder
 if you need help installing raylib on your machine click the following link https://www.raylib.com/. Thanks for
 reviewing my project! 
+
+## Sprites
+
+The sprites for this project are temporary. Art, unfortunately, is not one of my strong suits so feel free to redesign the UI if you feel compelled to do so. 
